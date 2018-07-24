@@ -105,3 +105,12 @@ venv.bak/
 
 # Other
 diary.txt
+dp_investigate.txt
+dp_tuning.txt
+xor_investigate.txt
+xor_tuning.txt
+orgs.txt
+out.txt
+
+.project
+.pydevproject
